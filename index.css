@@ -1,0 +1,80 @@
+.main{
+    background-color: gray;
+}
+.navigation{
+    background-color: green;
+    text-align: center;
+    align-content: center;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+}
+.body{
+    background-color: rgb(230, 226, 221);
+    padding-bottom: 1%;
+}
+.aboutcss{
+    display: inline-block;
+    width: 13cm;
+    height: 3cm;
+    border: 2px solid white;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin-top: 10%;
+    margin-left: 1%;
+    vertical-align: top;
+    box-shadow: 1px 1px 1px 1px gray;
+    padding: 1%;
+}
+.aboutcss>h3{
+    color: green;
+    text-align: left;
+    margin: 5px;
+}
+.Boxmodel{
+    display: inline-block;
+    width: 13cm;
+    height: 3cm;
+    border: 2px solid white;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin-top: 10%;
+    margin-left: 15%;
+    vertical-align: top;
+    box-shadow: 1px 1px 1px 1px gray;
+    padding: 1%;
+}
+.Boxmodel>h3{
+    color: green;
+    text-align: left;
+    margin: 5px;
+}
+.Responsive{
+    display: inline-block;
+    width: 13cm;
+    height: 3cm;
+    border: 2px solid white;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin-top: 2%;
+    margin-left: 1%;
+    vertical-align: top;
+    box-shadow: 1px 1px 1px 1px gray;
+    padding: 1%;
+}
+.Responsive>h3{
+    color: green;
+    text-align: left;
+    margin: 5px;
+}
+.base{
+    color: darkgray;
+    background-color: black;
+    text-align: center;
+    align-content: center;
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
